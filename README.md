@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-Screenshot.png
+[Screenshot.png](https://github.com/Pinncom2015/FAQ-Accordion-by-Brandon-Cook/blob/main/Screenshot.png)
 
 ### Links
 
