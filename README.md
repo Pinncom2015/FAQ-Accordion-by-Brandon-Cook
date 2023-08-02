@@ -7,7 +7,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Links](#links)https://github.com/Pinncom2015/FAQ-Accordion-by-Brandon-Cook/blob/main/README.md
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: (https://github.com/Pinncom2015/FAQ-Accordion-by-Brandon-Cook)
 - Live Site URL: [Add live site URL here]
 
 ## My process
