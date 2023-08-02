@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Pinncom2015/FAQ-Accordion-by-Brandon-Cook)
-- Live Site URL: [Add live site URL here]
+- Solution URL: https://github.com/Pinncom2015/FAQ-Accordion-by-Brandon-Cook
+- Live Site URL: https://faq-accordion-brandoncook.netlify.app/
 
 ## My process
 
