@@ -95,5 +95,5 @@ Testing: Learn how to write tests for Ir code. Testing ensures Ir code works as 
 ## Author
 
 Brandon Cook
-- Website - www.websofcolor.com
+- Website -www.cookwebdev.com and www.websofcolor.com
 - Frontend Mentor - @Pinncom2015 https://www.frontendmentor.io/profile/Pinncom2015
